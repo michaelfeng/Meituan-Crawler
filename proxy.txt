@@ -1,0 +1,2 @@
+#add your owner proxy ip, format: 192.168.1.22:8888
+
